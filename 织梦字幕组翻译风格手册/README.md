@@ -27,3 +27,21 @@
 ### 免责声明
 
 本织梦字幕组翻译风格手册及相关文件，不对文章内的任何内容做准确性保证，可能会包含错误信息的可能，欢迎指正或建议反馈至邮箱（zm_sub@outlook.com）。
+
+
+
+### 参考文献
+
+**[1]** 社団法人 日本翻訳協会 翻訳日本語表記ガイド
+
+**[2]** JTF日本語標準スタイルガイド （翻訳用）
+
+**[3]** 人人译世界-议员必读
+
+**[4]** [Github documents/中文字幕格式规范.md](https://github.com/udacity/cn-translation-volunteer-training/blob/master/documents/中文字幕格式规范.md)
+
+**[5]** [Wikipedia:表記ガイド](https://ja.wikipedia.org/wiki/Wikipedia:表記ガイド)
+
+**[6]** GB/T 15834—2011 标点符号用法
+
+**[7]** GY/T 301—2016 视频节目对白字幕数据格式规范
